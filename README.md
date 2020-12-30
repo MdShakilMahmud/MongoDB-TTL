@@ -19,7 +19,7 @@ Ensure you have node 10 or higher.
 
 ## Usage
 
-[http://localhost:<your_expected_port>](http://localhost:<your_expected_port>)
+[http://localhost:<your_expected_port>](http://localhost:)
 
 ---
 
